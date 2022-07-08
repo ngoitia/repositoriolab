@@ -2,4 +2,5 @@ linea01
 linea02
 linea03
 linea04
-linea05 -> rama master
+linea05 -> rama dev
+linea06 -> rama dev
